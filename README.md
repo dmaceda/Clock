@@ -1,4 +1,4 @@
-![Preview del reloj funcionando](https://github.com/dmaceda/Reloj-digital/blob/main/clock.jpg)
+![Preview del reloj funcionando](https://github.com/dmaceda/Clock/blob/master/clock.jpg)
 
 
 # Reloj digital
