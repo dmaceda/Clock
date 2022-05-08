@@ -1,5 +1,6 @@
 ![Preview del reloj funcionando](https://github.com/dmaceda/Clock/blob/master/clock.jpg)
 
+link a la App: https://dmaceda.github.io/Clock/
 
 # Reloj digital
 Esta es una aplicación desarrollada con React, un reloj digital simple que nos muestra el horario actual en horas, minutos y segundos.
