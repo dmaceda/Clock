@@ -1,4 +1,4 @@
-![Preview del reloj funcionando](https://github.com/dmaceda/Clock/blob/master/clock.jpg)
+
 ![Preview del reloj funcionando](https://github.com/dmaceda/Clock/blob/master/clock_mobile.png)
 
 link a la App: https://dmaceda.github.io/Clock/
